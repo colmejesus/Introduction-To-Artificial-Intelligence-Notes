@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Defining Artificial Intelligence.md",
+                "file": "03. Defining Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. A.I. as a Rational Agent.md",
+                "file": "04. A.I. as a Rational Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Cogvitive Tasks.md",
+                "file": "05. Cogvitive Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Cogvitive Tasks.md",
+                "file": "05. Cogvitive Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Cogvitive Tasks.md",
+                "file": "05. Cogvitive Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Cogvitive Tasks.md"
+                "file": "05. Cogvitive Tasks.md"
               }
             }
           }
@@ -195,12 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2014525ab793c08",
+  "active": "57ac00fd14972bc1",
   "lastOpenFiles": [
-    "03. A.I. as a Rational Agent.md",
-    "02. Defining Artificial Intelligence.md",
+    "04. A.I. as a Rational Agent.md",
+    "03. Defining Artificial Intelligence.md",
+    "05. Cogvitive Tasks.md",
     "02. History of A.I. (2000s).md",
-    "01. History Of A.I. (40s-90s).md",
-    "04. Cogvitive Tasks.md"
+    "01. History Of A.I. (40s-90s).md"
   ]
 }
