@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Uniform Search - Notion of A State.md",
+                "file": "06. Uniform Search - Notion of A State.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Uniform Search - Notion of A State.md",
+                "file": "06. Uniform Search - Notion of A State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Uniform Search - Notion of A State.md",
+                "file": "06. Uniform Search - Notion of A State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Uniform Search - Notion of A State.md"
+                "file": "06. Uniform Search - Notion of A State.md"
               }
             }
           }
@@ -210,7 +210,7 @@
   "active": "0212af3d1ad9ed40",
   "lastOpenFiles": [
     "03. Defining Artificial Intelligence.md",
-    "04. Uniform Search - Notion of A State.md",
+    "06. Uniform Search - Notion of A State.md",
     "04. A.I. as a Rational Agent.md",
     "05. Cogvitive Tasks.md",
     "02. History of A.I. (2000s).md",
